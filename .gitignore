@@ -1,0 +1,10 @@
+# Virtual Environment - THIS IS THE MOST IMPORTANT ONE
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code specific settings folder
+.vscode/
