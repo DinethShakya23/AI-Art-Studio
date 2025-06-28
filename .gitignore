@@ -8,3 +8,6 @@ __pycache__/
 
 # VS Code specific settings folder
 .vscode/
+
+# my personal documentation of the project
+documentation.docx
