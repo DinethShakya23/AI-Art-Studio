@@ -4,5 +4,7 @@ create a virtual environment
 activate the virtual environment
                                         .\.venv\Scripts\activate
 
-install required libraries
-                                        pip install opencv-python mediapipe
+install necessasy packages
+# we are using opencv & mediapipe
+                                        pip install -r requirements.txt
+                                        
